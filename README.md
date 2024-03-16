@@ -12,7 +12,7 @@ First, a userscript manager extension must be installed on the browser.
 The most popular is Tampermonkey, install it with the following link:
 https://www.tampermonkey.net/
 
-Navigate to the .user.js file and Tampermonkey will show the install option
+Navigate to the .user.js file, click on the 'Raw' button, and Tampermonkey will show the install option
 https://github.com/mateo-ceballos/login-utn-frc/blob/main/login-utn-frc.user.js
 
 That's it! Now every time you login, these option will be automatically set
